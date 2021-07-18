@@ -1,0 +1,32 @@
+
+
+.mybox1 {
+    background-color: rgb(242, 221, 59);
+    min-height: 200px;
+    margin: 20px 10px;
+    padding: 20px;
+}
+h1 {
+    color: red;
+}
+
+@media (min-width: 576px) { 
+    h1 {
+        color: blue;
+    }
+ }
+
+@media (min-width: 768px) { 
+
+ }
+
+@media (min-width: 992px) { 
+    h1 {
+        color: rgb(255, 9, 218);
+    }
+ }
+
+
+@media (min-width: 1200px) { 
+
+ }
